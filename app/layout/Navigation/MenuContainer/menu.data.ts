@@ -9,7 +9,7 @@ export const firstMenu:IMenu = {
     },
     {
         icon: 'MdExplore',
-        link: '/genres',
+        link: '/discovery',
         title: 'Discovery'
     },
     {

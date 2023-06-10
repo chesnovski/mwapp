@@ -4,6 +4,24 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&display=swap');
 
+/* width */
+::-webkit-scrollbar {
+  width: 5px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: gray-800;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  border-top: 60px solid gray
+  
+}
+
+
+
 html,
 body {
   padding: 0;

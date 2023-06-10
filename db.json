@@ -1,0 +1,27 @@
+{
+    "categories":[
+            
+            {
+                "slug": "/crypto",
+                "name": "Crypto",
+                "icon": "MdCurrencyBitcoin"
+            },
+            {
+                "slug": "/finance",
+                "name": "Financial",
+                "icon": "MdAttachMoney"
+            },
+            {
+                "slug": "/exchanges",
+                "name": "Exchanges",
+                "icon": "MdCurrencyExchange"
+            },
+            {
+                "slug": "/Community",
+                "name": "Community",
+                "icon": "MdForum"
+            }
+
+        ]
+}
+
