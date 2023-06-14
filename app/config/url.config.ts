@@ -1,3 +1,4 @@
+export const getNewsUrl = (slug:string) => `/news/${slug}`
 export const getCoinUrl = (slug:string) => `/coin/${slug}`
 export const getCategoryUrl = (slug:string) => `/category/${slug}`
 

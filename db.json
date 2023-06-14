@@ -22,6 +22,21 @@
                 "icon": "MdForum"
             }
 
-        ]
+        ],
+    
+    "news":[
+        {
+            "_id": "15",
+            "poster": "aaa",
+            "bigPoster": "aaaaa",
+            "title": "New Film",
+            "countOpened": 12,
+            "slug": "/15"
+        }
+    ]
+
+    
 }
+
+
 
