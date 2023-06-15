@@ -5,12 +5,12 @@ import Link from "next/link";
 import { getNewsUrl } from "@/app/config/url.config";
 import Image from "next/image";
 
-const SearchList: FC<INews[]> = (news) => {
+const SearchList: FC<{ news: INews[] }> = ({ news }) => {
   return (
     <div className={styles.list}>
       {news.length ? (
         news.map((news) => (
-          <Link key={news._id} href={getNewsUrl(news.slug)}>
+          <Link legacyBehavior key={news._id} href={getNewsUrl(news.slug)}>
             <a>
               <Image
                 src={news.slug}

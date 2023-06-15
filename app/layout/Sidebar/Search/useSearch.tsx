@@ -9,6 +9,7 @@ export const useSearch = () => {
 
   const { isSuccess, data } = useQuery(
     ["search news list", debouncedSearch],
+    // @ts-ignore
     () => NewsService.getAll(debouncedSearch),
     {
       select: ({ data }) => data,

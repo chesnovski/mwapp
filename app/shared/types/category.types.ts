@@ -15,7 +15,7 @@ export interface ICategory {
 // }
 
 
-export interface INews{
+export interface INews  extends React.HTMLAttributes<HTMLInputElement> {
     _id: string
     poster: string
     bigPoster: string
