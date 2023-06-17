@@ -62,40 +62,38 @@
     "popular-news":[
         {
             "_id": "15",
-            "poster": "aaa",
-            "bigPoster": "aaaaa",
+            "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bitcoin.svg/1200px-Bitcoin.svg.png",
+            "bigPoster": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bitcoin.svg/1200px-Bitcoin.svg.png",
             "title": "Bitcoin all-time high",
             "countOpened": 12,
             "slug": "/15"
         },
         {
             "_id": "16",
-            "poster": "aab",
-            "bigPoster": "aaaab",
+            "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bitcoin.svg/1200px-Bitcoin.svg.png",
+            "bigPoster": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bitcoin.svg/1200px-Bitcoin.svg.png",
             "title": "New Bitcoin",
             "countOpened": 12,
             "slug": "/16"
         },
         {
             "_id": "17",
-            "poster": "aac",
-            "bigPoster": "aaaac",
+            "poster": "https://image.cnbcfm.com/api/v1/image/107230869-1682446793111-FLAT_CryptoQuiz_V1_1.png?v=1682689624&w=929&h=523&vtcrop=y",
+            "bigPoster": "https://image.cnbcfm.com/api/v1/image/107230869-1682446793111-FLAT_CryptoQuiz_V1_1.png?v=1682689624&w=929&h=523&vtcrop=y",
             "title": "Crypto",
             "countOpened": 12,
             "slug": "/17"
         },
         {
             "_id": "18",
-            "poster": "aad",
-            "bigPoster": "aaaad",
+            "poster": "https://pbs.twimg.com/profile_images/1472933274209107976/6u-LQfjG_400x400.jpg",
+            "bigPoster":"https://pbs.twimg.com/profile_images/1472933274209107976/6u-LQfjG_400x400.jpg",
             "title": "Solana",
             "countOpened": 12,
             "slug": "/18"
         }
 
-]
-
-    
+]  
 }
 
 

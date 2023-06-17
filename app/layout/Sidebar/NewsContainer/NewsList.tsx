@@ -11,7 +11,7 @@ const NewsList: FC<INewsList> = ({ link, title, news }) => {
       {news.map((news) => (
         <NewsItem key={news._id} news={news} />
       ))}
-      <Link href={link}>
+      <Link legacyBehavior href={link}>
         <a className={styles.button}>See more</a>
       </Link>
     </div>
