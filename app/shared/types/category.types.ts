@@ -20,6 +20,7 @@ export interface INews  extends React.HTMLAttributes<HTMLInputElement> {
     poster: string
     bigPoster: string
     title: string
+    categories: ICategory[]
     countOpened: number
     slug: string
 
