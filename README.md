@@ -7,7 +7,9 @@ This is a frontend part for api project
 ## About The Project
 This project was developed using a framework/library Next JS and Tailwind CSS. In the backend using Node JS, Express JS, and PostgreSQL for the database.
 ## Built With
-- React
+- Next
+- Tailwind
+- React Query
 - [Other dependencies]
 ## Installation
 - Clone the repo
